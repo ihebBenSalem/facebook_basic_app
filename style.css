@@ -1,0 +1,129 @@
+.navbar-brand
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin: auto;  }
+
+.navbar
+{
+    background-color: #1b6d85;
+
+}
+
+.navbar .navbar-nav > li > a {
+    color:#fff;
+}
+
+
+
+
+
+
+
+      #mm
+      {
+          color: #eeeeee;
+
+      }
+
+      body
+      {
+          margin-top: 130px;
+          background-color: #eeeeee;
+      }
+
+      .navbar-costum.navbar-brand
+      {
+          position: absolute;
+          width: 0;
+          left: 0;
+
+      }
+
+       #myimage
+       {
+           width: 150px;
+           height: 150px;
+           position: absolute;
+           left: 55px;
+           top: 155px;
+       }
+
+
+
+
+#btn
+{
+position:relative;
+top:-207px;
+}
+
+
+
+#underpic
+{
+  position: absolute;
+  top: 300px;
+  left: 50px;
+  color: #FFFFFF;
+}
+
+
+.navbar-costum
+      {
+          background-color: #122b40;
+      }
+
+
+
+#myfate
+{
+    position: absolute;
+    left: 255px;
+    top: 130px;
+    font-weight:bold;color:#FFFFFF;
+    letter-spacing:0pt;
+    word-spacing:11pt;
+    font-size:19px;
+    text-align:left;
+    font-family:comic sans,Monaco, cursive, verdana, arial, sans-serif;line-height:1;
+}
+
+#fateof
+{
+    position: absolute;
+    left: 200px;
+    top: 60px;
+    color: #e38d13;
+    font-size: 23px;
+    font-family:"Helvetica Neue","Glyphicons Halflings", cursive, verdana, arial, sans-serif;line-height:1;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
